@@ -1,0 +1,11 @@
+$ nano .gitignore
+history_command.txt
+$ git add .
+$ git status
+On branch master
+Changes to be committed:
+  (use "git rm --cached <file>..." to un stage)
+        new file :  README.md
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        history_command.txt
